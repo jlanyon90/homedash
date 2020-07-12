@@ -17308,8 +17308,8 @@ label {
 }
 
 .card-stats .card-header .card-category:not([class*="text-"]) {
-  color: #999999;
-  font-size: 14px;
+  color: #2e2e2e;
+  font-size: 16px;
 }
 
 .card-stats .card-header+.card-footer {
